@@ -1,0 +1,6 @@
+{
+  "name": "SiagaMap AI",
+  "description": "Platform pemantauan bencana real-time yang mengintegrasikan data BMKG dengan kecerdasan SiagaMap AI untuk mitigasi bencana yang informatif.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
